@@ -194,18 +194,199 @@ h1 {
     text-decoration: none;
     border-radius: 5px;
     margin-top: 30px;
-    margin-left: 690px;
+    margin-left: 670px;
+
     padding: 16px 12px;
+
+}
+
+.btn-other {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
 }
 
 .our-donate-section {
     margin-bottom: 150px;
 }
 
+.donatate-plan {
+    margin-bottom: 150px;
+}
+
+.plan-header {
+    width: 45%;
+    margin-left: 28%;
+
+}
+
+.plan-header h1 {
+    font-family: 'Inter';
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 0px;
+}
+
+.plan-header p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #707070;
+}
+
+.plan-content {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.family {
+    width: 360px;
+    height: 352px;
+    margin-right: 20px;
+}
+
+#food {
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px;
+}
+
+#shelter {
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;
+}
+
+#education {
+    background: #FFF4D6;
+    border-radius: 5px;
+}
+
+#food h1 {
+    margin-top: 15px;
+}
+
+.icon-shelter {
+    width: 53px;
+    height: 53px;
+}
+
+.icon {
+    margin-top: 64px;
+    margin-left: 18px;
+}
+
+.family-box {
+    margin-left: 18px;
+}
+
+.family-box h3 {
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+
+    color: #121212;
+}
+
+.family-box p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #707070;
+    width: 315px;
+}
+
+.wrap-live {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+}
+
+.live {
+    width: 493px;
+    margin-left: 80px;
+    margin-top: 50px;
+
+}
+
+.live h1 {
+    font-family: 'Inter';
+    font-size: 45px;
+    font-weight: 700;
+    color: #121212;
+}
+
+.live p {
+    color: rgba(112, 112, 112, 1);
+    margin-left: 22px;
+}
+
+.live .para1 {
+    width: 400px;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.live .para2 {
+    width: 400px;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.livepic img {
+    width: 456px;
+    height: 477px;
+}
+
+.toplive {
+    margin-top: 30px;
+    width: 230px;
+    height: 56px;
+}
+
+.live-btn {
+    background: #FF5959;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 16px 12px;
+    font-weight: 500;
+    font-size: 15px;
+    margin-left: 20px;
+
+}
+
+.livepic {
+    margin-left: 200px;
+
+}
+
+.wrap-live {
+    margin-bottom: 150px;
+}
+
+
+
 
 
 /* 
 .plan-header {
+
+    
     display: flex;
     flex-direction: column;
     width: 691px;
